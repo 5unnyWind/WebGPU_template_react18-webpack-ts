@@ -6,7 +6,7 @@ module.exports = {
         alias: {
             "@/components": path.resolve(__dirname, "src/components/"),
             "@/hooks": path.resolve(__dirname, "src/hooks/"),
-            "@/shader": path.resolve(__dirname, "src/shader/")
+            "@/shaders": path.resolve(__dirname, "src/shaders/")
         },
         configure: {
             module: {
