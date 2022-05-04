@@ -5,7 +5,8 @@
       "@/src/*": ["./src/*"],
       "@/components/*": ["./src/components/*"],
       "@/hooks/*": ["./src/hooks/*"],
-      "@/wgsl/*": ["./src/wgsl/*"]
+      "@/wgsl/*": ["./src/wgsl/*"],
+      "@/shader/*": ["./src/shader/*"]
     },
     "typeRoots": ["node_modules/@types", "node_modules/@webgpu/types"],
     "lib": ["dom", "dom.iterable", "esnext"],
